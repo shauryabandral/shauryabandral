@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Shaurya Bandral<br> I'm currently studing in school<br> I'm From Jammu and Kashmir<br>
+I'm Shaurya Bandral<br> I'm currently in school<br> I'm From Jammu and Kashmir<br>
 I’m currently working on CereoHub<br> I’m currently learning c++/c##  
 
 
