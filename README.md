@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Shaurya Bandral<br> I'm currently studing in school<br> 
+I'm Shaurya Bandral<br> I'm currently studing in school<br> I'm From Jammu and Kashmir<br>
 I’m currently working on CereoHub<br> I’m currently learning c++/c##  
 
 
@@ -13,7 +13,7 @@ I’m currently working on CereoHub<br> I’m currently learning c++/c##
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### My Designs
-https://friendsfastfood.netlify.app/
-https://amorcafe.netlify.app/
+### My Few Designs
+1. https://friendsfastfood.netlify.app/<br>
+2. https://amorcafe.netlify.app/
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
