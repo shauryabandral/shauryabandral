@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm Shaurya Bandral<br> I'm currently studing in school<br> 
-🔭 I’m currently working on CereoHub<br>🌱 I’m currently learning c++/c##  
+I’m currently working on CereoHub<br> I’m currently learning c++/c##  
 
 
 ## 🌐 Socials:
