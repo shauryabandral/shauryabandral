@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Shaurya Bandral<br> I'm currently in 16<br> I'm From Jammu and Kashmir<br>
+I'm Shaurya Bandral<br> I'm currently 16<br> I'm From Jammu and Kashmir<br>
 I’m currently working on CereoHub<br> I’m currently learning c++/c##  
 
 
