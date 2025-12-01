@@ -1,6 +1,6 @@
-# 💫 About Me:
+#  About Me:
 I'm Shaurya Bandral<br> I'm currently 16<br> I'm From Jammu and Kashmir<br>
-I’m currently working on CereoHub<br> I’m currently learning c++/c##  
+<br> I’m currently learning c++/c##  
 
 
 ## 🌐 Socials:
@@ -16,4 +16,5 @@ I’m currently working on CereoHub<br> I’m currently learning c++/c##
 ### My Few Designs
 1. https://friendsfastfood.netlify.app/<br>
 2. https://amorcafe.netlify.app/
+3. https://linkorc.netlify.app/
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
